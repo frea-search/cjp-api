@@ -1,0 +1,13 @@
+{
+  "name": "cjp-api",
+  "version": "1.0.0",
+  "description": "API of CorrectJP",
+  "main": "index.js",
+  "repository": "https://git.freasearch.org/cjp/api",
+  "author": "nexryai <nexryai@outlook.com>",
+  "license": "Apache2.0",
+  "dependencies": {
+    "cjp": "^2.0.3",
+    "fastify": "^4.9.2"
+  }
+}
